@@ -20,7 +20,7 @@ server.use(routes);
 
 //star server
 server.listen(server.get("port"),()=>{
-console.log("Server is runnig "+server.get("port"));
+console.log("Server is runnig ",server.get("port"));
 });
 
 
