@@ -2,7 +2,7 @@
 const Equipos:any[]=[
 
     { "id":1,"nombre":"liverpool","pais":"inglaterra" },
-    { "id":2,"nombre":"Real Madrid","pais":"España"}
+    { "id":2,"nombre":"Barcelona","pais":"España"}
     
 ];
 
